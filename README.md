@@ -7,6 +7,7 @@ The Glytoucan APIs that are currently used in Glycan Array Project:
 * to register a glycan (WURCS sequence): https://api.glytoucan.org/glycan/register
 
 Documentation links:
+* https://api.glytoucan.org/
 * https://api.glycosmos.org/
 * https://sparqlist.glyconavi.org/WURCS2GlyTouCan
 * https://sparqlist.glycosmos.org/sparqlist/
